@@ -27,6 +27,8 @@ cat file3.txt
 
 
 # 6. Delete file4.txt
+rm file4.txt
+
 
 # 7. Delete directories dir4 and dir5 including all their contents (if any)
 
